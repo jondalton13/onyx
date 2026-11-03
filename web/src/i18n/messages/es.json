@@ -14827,6 +14827,10 @@
       },
       "plusMenu": {
         "tooltip": "Añadir archivos o habilidades"
+      },
+      "contextRing": {
+        "label": "Uso de la ventana de contexto",
+        "tooltip": "{percent} % del contexto usado"
       }
     },
     "interruptHint": {

@@ -199,6 +199,13 @@ export {
   type ProgressBarColor,
 } from "@opal/components/progress-bar/components";
 
+/* ProgressRing */
+export {
+  ProgressRing,
+  type ProgressRingProps,
+  type ProgressRingColor,
+} from "@opal/components/progress-ring/components";
+
 /* Card */
 export { Card, type CardProps } from "@opal/components/cards/card/components";
 

@@ -14827,6 +14827,10 @@
       },
       "plusMenu": {
         "tooltip": "إضافة ملفات أو مهارات"
+      },
+      "contextRing": {
+        "label": "استخدام نافذة السياق",
+        "tooltip": "تم استخدام {percent}% من السياق"
       }
     },
     "interruptHint": {

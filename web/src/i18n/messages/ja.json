@@ -14827,6 +14827,10 @@
       },
       "plusMenu": {
         "tooltip": "ファイルやスキルを追加"
+      },
+      "contextRing": {
+        "label": "コンテキストウィンドウの使用量",
+        "tooltip": "コンテキストの {percent}% を使用"
       }
     },
     "interruptHint": {
